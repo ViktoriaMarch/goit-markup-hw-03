@@ -185,15 +185,6 @@ h1 {
   justify-content: space-between;
 }
 
-/* .progects .item {
-   width: calc((100%-60px) /3 ); 
-   margin-right: 30px;
-}
-
-.progects .item:nth-child(3n) {
-  margin-right: 0;
-} */
-
 .progect {
   font-weight: 700;
   font-size: 18px;
@@ -222,19 +213,19 @@ h1 {
 .group-item {
   background-color: #fff;
   padding: 20px 24px;
-  width: 322px;
-  height: 70px;
+  width: 370px;
+  height: 110px;
   border: 1px solid #EEEEEE;
+  margin-right: 0;
 }
 
-h2 {
-  display: inline;
-  width: 322px;
+ h2 {
+  max-width: 322px;
 }
 
 p {
   display: inline;
-}
+} 
 
 .progects img {
   display: block;
