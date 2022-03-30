@@ -39,9 +39,9 @@ body {
   display: flex;
   align-items: center;
 }
- 
+
 header {
-  border-bottom: 1px solid  #EEEEEE ; 
+  border-bottom: 1px solid #eeeeee;
 }
 
 .logo {
@@ -132,7 +132,7 @@ ul {
 }
 
 h1 {
- position: absolute;
+  position: absolute;
   width: 1px;
   height: 1px;
   margin: -1px;
@@ -215,17 +215,17 @@ h1 {
   padding: 20px 24px;
   width: 370px;
   height: 110px;
-  border: 1px solid #EEEEEE;
+  border: 1px solid #eeeeee;
   margin-right: 0;
 }
 
- h2 {
+h2 {
   max-width: 322px;
 }
 
 p {
   display: inline;
-} 
+}
 
 .progects img {
   display: block;
